@@ -90,3 +90,10 @@ added 44 packages in 9s
 
 6 packages are looking for funding
   run `npm fund` for details
+
+  ## Módulos em Node.js:
+  - [x]Importação de módulos (require, commondJS)
+  - [x]Biblioteca 'inquirer' para criar prompts interativos
+
+  ## Programação assíncrona e Promises
+  - [x]Uso de funções assíncronas (async/await)
