@@ -50,12 +50,13 @@ console.log(mensagem);
 - [x]Operadores de atribuição de valor: =
 - [x] Operador de concatenação: +
 - [x] Operadores de comparação:  == != <= >= < >
+- [x] Spread operator: ... (depende da onde está sendo colocado)
 
 ## Estrutura de dados
 
 ### Arrays
 [x]Uma lista que contém qualquer tipo de dado
-[x]Métodos de array(toda função que está dentro de um objeto): push, find, forEach
+[x]Métodos de array(toda função que está dentro de um objeto): push, HOF (higher order functions):find, forEach, filter
 
 ## Objetos
 
