@@ -55,6 +55,7 @@ console.log(mensagem);
 
 ### Arrays
 [x]Uma lista que contém qualquer tipo de dado
+[x]Métodos de array(toda função que está dentro de um objeto): push, find, forEach
 
 ## Objetos
 
