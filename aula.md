@@ -98,6 +98,12 @@ added 44 packages in 9s
   ## Módulos em Node.js:
   - [x]Importação de módulos (require, commondJS)
   - [x]Biblioteca 'inquirer' para criar prompts interativos
+  - [x]FS (file system)
+
+  ## JSON
+  - [x]JavaScript Object Notation (.json)
+  - [x]JSON.parse() : transforma de JSON para JS
+  - [x]JSON.stringify : transforma de JS para JSON
 
   ## Programação assíncrona e Promises
   - [x]Uso de funções assíncronas (async/await)
