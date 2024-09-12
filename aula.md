@@ -22,9 +22,9 @@ console.log(mensagem);
 
     Const =  é usado para declarar variáveis que não devem ser reatribuídas após sua inicialização. Assigment to constant variable.
 
-- [x] Declaração (atribuição,concentração, matemáticos, lógicos)
+- [x] Declaração de variáveis (atribuição,concentração, matemáticos, lógicos)
 - [x] Tipos de dados (string, number, boolean)
-- [x] Estrutura de dados (functions, onjetct, array)
+- [x] Estrutura de dados (functions, objetct, array)
 - [x] Controle de fluxo (if/else)
 - [x] Estrutura de repetição (for, while)
 
@@ -47,8 +47,9 @@ console.log(mensagem);
 
 ## Operadores
 
-- [x]Operadores de atribuição de valor é o sinal =
-- [x] Operador de concatenação é o sinal de +
+- [x]Operadores de atribuição de valor: =
+- [x] Operador de concatenação: +
+- [x] Operadores de comparação:  == != <= >= < >
 
 ## Estrutura de dados
 
@@ -77,6 +78,7 @@ console.log(mensagem);
 # Condicionais
 
 - [x] Switch
+- [x] if/else
 
 ## Vocabulário
 
